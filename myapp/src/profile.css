@@ -1,0 +1,25 @@
+.prof-page{
+    border: 2px solid red;
+    
+    padding: 2em;
+}
+.prof-sidebar{
+    border: 2px solid rgb(8, 8, 8);
+    padding-top: 5%;
+   background-color: #e9f3ff;
+   font-family:  'Times New Roman', Times, serif;
+}
+.prof-sidebar img{
+    
+}
+.prof-sidebar a{
+    color: rgb(0, 0, 0);
+}
+.prof-sidebar a:hover{
+    color: rgb(42, 42, 42);
+}
+.prof-window{
+    border: 2px solid rgb(15, 159, 73);
+    margin: 1em;
+
+}
